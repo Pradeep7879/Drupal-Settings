@@ -1,0 +1,2 @@
+# Drupal-Settings
+Kint-debug
