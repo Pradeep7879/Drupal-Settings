@@ -15,5 +15,10 @@ Improve the kint debug time and depth.
     }
 -----------------------------------------------------------------------------------------------------------------------------
 
+template suggestion for theming in Drupal 8. 
 
+    In project/path/to/sits/default/serivces.yml   
+    debug: True
+    cache: false
+-----------------------------------------------------------------------------------------------------------------------------
 
